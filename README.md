@@ -201,8 +201,7 @@ Final Output → Trustworthy / Hallucinated
 │   ├── evaluation_metrics
 │   └── visualizations
 │
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
